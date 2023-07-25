@@ -1,6 +1,6 @@
 # Nextjs13 auth
 ## Google Provider Nextjs13 auth
-### Simple example using Google Auth in Nextjs13
+### Simple example using Google Auth and Next-auth in Nextjs13
 ```
 Nextjs13
 Nextjs13 auth
